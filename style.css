@@ -129,3 +129,8 @@ h2, h3 {
 #portfolio a:hover::after {
   opacity: 1;
 }
+  body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmclpQLnHYQbqdQupebg0CKcI6px5vugbKr3JnsJYshldV_OxCreUBvmY:https://oceanexplorer.noaa.gov/wp-content/uploads/2013/10/explored-hires-scaled.jpg&s=10');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
